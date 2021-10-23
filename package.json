@@ -1,0 +1,25 @@
+{
+  "name": "sales.registrator",
+  "version": "1.0.0",
+  "description": "Application for sales registrations",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathcolussi/sales.registrator.git"
+  },
+  "author": "Nathalia Colussi Marchioli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathcolussi/sales.registrator/issues"
+  },
+  "homepage": "https://github.com/nathcolussi/sales.registrator#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
